@@ -10,8 +10,9 @@ Envie sua solução em um único arquivo mesmo, nessa etapa vamos avaliar o func
 Entrada
 
 A entrada é composta por um único caso teste contendo um texto de uma única linha com pelomenos uma palavra, sendo todas minúsculas, sem caracteres especiais e sem acentuação.
-Todas as palavras estão separadas por apenas um único caractere de espaço. A entrada deve ser lida pela entrada padrão.
+Todas as palavras estão separadas por apenas um único caractere de espaço. A entrada deve ser lida pela entrada padrão. 
 
 
-Saída
+Saída 
+
 Deve-se imprimir o novo texto sem duplicação (considere a maior duplicação da palavra) do fim de cada palavra com um ponto final.
