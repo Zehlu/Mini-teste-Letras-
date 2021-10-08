@@ -1,6 +1,7 @@
+
 Mini-teste de programação
 
-conteceu algum problema em nosso servidor e algumas palavras do banco de dados ficaram com o final duplicado. 
+Aconteceu algum problema em nosso servidor e algumas palavras do banco de dados ficaram com o final duplicado. 
 Sua tarefa é remover duplicação do fim de cada palavra de um texto, mas somente se todas as
 palavras do texto tiverem duplicação. 
 Envie sua solução em um único arquivo mesmo, nessa etapa vamos avaliar o funcionamento correto do seu algoritmo :)
